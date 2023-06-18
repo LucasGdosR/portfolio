@@ -24,6 +24,7 @@ This repository points to my main repositories sorted by category.
   - [IsBST](https://github.com/LucasGdosR/DSA-Exercises/tree/main/binary_trees/is_bst) - an algorithm to check if a tree is a binary search tree.
   - [2D Tree](https://github.com/LucasGdosR/DSA-Exercises/tree/main/binary_trees/kd_trees) - an efficient data structure to find all points inside a given rectangle, or to find the nearest point given another point.
 - [CS50AI](https://github.com/LucasGdosR/DSA-Exercises/tree/main/CS50AI) (Python) - some exercises from CS50AI. To be completed.
+- [Graphs](https://github.com/LucasGdosR/DSA-Exercises/tree/main/graphs) - many implementations. Includes undirected, directed, and weighted graphs, BFS, recursive DFS, and Kruskal's MST.
 - [Sorting](https://github.com/LucasGdosR/DSA-Exercises/tree/main/sorting) - some sorting interview questions and implementations. Includes a [quicksort](https://github.com/ppenna/playground/tree/main/sorting/quicksort/java) implementation that's better suited for dealing with many duplicate keys in the array.
 - [Stacks & Queues](https://github.com/LucasGdosR/DSA-Exercises/tree/main/stacks_queues) - a Deque implementation, a Stack implementation, a Queue implementation that uses 2 Stacks under the hood (not for production), and a Randomized Queue.
 - [Union Find](https://github.com/LucasGdosR/DSA-Exercises/tree/main/union_find) - some interesting interview questions answered, and a Monte Carlo simulation of a percolation problem.
