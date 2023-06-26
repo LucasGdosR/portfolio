@@ -29,6 +29,7 @@ This repository points to my main repositories sorted by category.
   - [Baseball Elimination](https://github.com/LucasGdosR/DSA-Exercises/tree/main/graphs/baseball) - an application that checks which baseball teams have been eliminated by computing the maxflow of a graph (maxflow < capacity of all edges leaving source -> eliminated), and finds which teams are responsible for the elimination by computing a mincut.
 - [Sorting](https://github.com/LucasGdosR/DSA-Exercises/tree/main/sorting) - some sorting interview questions and implementations. Includes a [quicksort](https://github.com/ppenna/playground/tree/main/sorting/quicksort/java) implementation that's better suited for dealing with many duplicate keys in the array.
 - [Stacks & Queues](https://github.com/LucasGdosR/DSA-Exercises/tree/main/stacks_queues) - a Deque implementation, a Stack implementation, a Queue implementation that uses 2 Stacks under the hood (not for production), and a Randomized Queue.
+- [Tries](https://github.com/LucasGdosR/DSA-Exercises/tree/main/boggle) - an application to find all possible words in a Boggle board. It uses a Trie implemented from scratch holding words from a dictionary, and Depth First Search to find all valid words, with a Set holding the words found, to prevent duplicates.
 - [Union Find](https://github.com/LucasGdosR/DSA-Exercises/tree/main/union_find) - some interesting interview questions answered, and a Monte Carlo simulation of a percolation problem.
 
 ## Misc
