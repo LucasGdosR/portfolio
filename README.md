@@ -32,5 +32,8 @@ This repository points to my main repositories sorted by category.
 - [Tries](https://github.com/LucasGdosR/DSA-Exercises/tree/main/boggle) - an application to find all possible words in a Boggle board. It uses a Trie implemented from scratch holding words from a dictionary, and Depth First Search to find all valid words, with a Set holding the words found, to prevent duplicates.
 - [Union Find](https://github.com/LucasGdosR/DSA-Exercises/tree/main/union_find) - some interesting interview questions answered, and a Monte Carlo simulation of a percolation problem.
 
+## Systems
+- [Assembler](https://github.com/LucasGdosR/nand2tetris/tree/main/assembler) - an assembler written in Java to convert symbolic assembly to machine code. Capstone of the first part of the [Nand2Tetris](https://www.nand2tetris.org/) course.
+
 ## Misc
 - [CS50 Final Project](https://github.com/LucasGdosR/CS50-Final-Project) (Python/Flask) - my first web application. It's filled with bad practices, but also has some linear programming using python's scipy, as well as frontend/backend integration using flask.
