@@ -23,7 +23,7 @@ This repository points to my main repositories sorted by category.
 - [BST](https://github.com/ppenna/playground/tree/main/data-structures/binary-search-tree/java) - a BST that can perform all kinds of operations based on _compare_ routines.
   - [IsBST](https://github.com/LucasGdosR/DSA-Exercises/tree/main/binary_trees/is_bst) - an algorithm to check if a tree is a binary search tree.
   - [2D Tree](https://github.com/LucasGdosR/DSA-Exercises/tree/main/binary_trees/kd_trees) - an efficient data structure to find all points inside a given rectangle, or to find the nearest point given another point.
-- [CS50AI](https://github.com/LucasGdosR/DSA-Exercises/tree/main/CS50AI) (Python) - some exercises from CS50AI. To be completed.
+- [CS50AI](https://github.com/LucasGdosR/DSA-Exercises/tree/main/CS50AI) (Python) - most projects from CS50AI.
 - [Graphs](https://github.com/LucasGdosR/DSA-Exercises/tree/main/graphs) - many implementations. Includes undirected, directed, and weighted graphs, BFS, recursive DFS, and Kruskal's MST.
   - [Seam Carver](https://github.com/LucasGdosR/DSA-Exercises/blob/main/graphs/seam/SeamCarver.java) - an image editing application that computes the shortest path in an acyclic digraph using the pixels' energy as the edge's weight.
   - [Baseball Elimination](https://github.com/LucasGdosR/DSA-Exercises/tree/main/graphs/baseball) - an application that checks which baseball teams have been eliminated by computing the maxflow of a graph (maxflow < capacity of all edges leaving source -> eliminated), and finds which teams are responsible for the elimination by computing a mincut.
