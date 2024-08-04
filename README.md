@@ -1,6 +1,17 @@
 # Portfolio
 This repository points to my main repositories sorted by category.
 
+## Compilers (OCaml)
+- [Snake languages](https://github.com/LucasGdosR/snake-languages/tree/main) - an incremental compiler approach, building several compilers for increasingly rich LISP languages. Encompasses all projects from Joe Politz's [UCSD 131 compilers course](https://github.com/ucsd-cse131-f19/ucsd-cse131-f19.github.io/tree/master) (in progress)
+
+## Systems (Mostly C)
+- [Parallel zip](https://github.com/LucasGdosR/ostep-projects/tree/main/concurrency-pzip) - a multithreaded command-line program written in C that compresses files using run length encoding. One of the projects from [OS:TEP](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Projects/p3.html) course.
+- [Shell](https://github.com/LucasGdosR/ostep-projects/tree/main/processes-shell) - a Unix shell that implements some built in commands, output redirection, and executes binary files. One of the projects from [OS:TEP](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Projects/p2a.html) course and one of the labs from [CS:APP3e](https://csapp.cs.cmu.edu/3e/labs.html).
+- [Custom malloc](https://github.com/LucasGdosR/malloc-lab) - four different implementations of malloc, free and realloc, using different policies and free-list data structures. One of the labs from [CS:APP3e](https://csapp.cs.cmu.edu/3e/labs.html).
+- [Cache simulator](https://github.com/LucasGdosR/cache-lab) - a simulator of processor's cache implementing LRU. One of the labs from [CS:APP3e](https://csapp.cs.cmu.edu/3e/labs.html).
+- xv6 lottery scheduller - I've implemented a new scheduler policy for the xv6 kernel. I don't have it saved to a repo. One of the projects from [OS:TEP](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Projects/p2b.html).
+- [Assembler](https://github.com/LucasGdosR/nand2tetris/tree/main/assembler) - an assembler written in Java to convert symbolic assembly to machine code. Capstone of the first part of [Nand2Tetris](https://www.nand2tetris.org/) course.
+
 ## APIs (Java/Spring)
 - [Lab Medical BD](https://github.com/LucasGdosR/DiP-M2-projeto-2) - a CRUD API using Spring. It's meant to complement the _Lab Medical_ frontend project.
 
@@ -17,7 +28,7 @@ This repository points to my main repositories sorted by category.
 - [LabMedicine](https://github.com/LucasGdosR/DiP-M2-projeto-1) - a CRUD using pure Java. I implemented the _composite_ design pattern for the menu system.
 - [Car tests](https://github.com/LucasGdosR/santander-coders-web-full-stack/tree/testes-automatizados-1/testes_automatizados_carros) - an exercise. I implemented all the rules in the Main.java file using the _state_ design pattern.
 
-## Algorithms (mostly Java)
+## Algorithms (Java / Python)
 - [Binary Heaps](https://github.com/ppenna/playground/tree/main/data-structures/binary-heap/java) - some implementations of binary heaps in Java, including a "median heap", that always returns the median.
   - [A*](https://github.com/LucasGdosR/DSA-Exercises/tree/main/heaps/eight_puzzle) - A* implementation to solve the 8-puzzle game optimally.
 - [BST](https://github.com/ppenna/playground/tree/main/data-structures/binary-search-tree/java) - a BST that can perform all kinds of operations based on _compare_ routines.
@@ -31,9 +42,6 @@ This repository points to my main repositories sorted by category.
 - [Stacks & Queues](https://github.com/LucasGdosR/DSA-Exercises/tree/main/stacks_queues) - a Deque implementation, a Stack implementation, a Queue implementation that uses 2 Stacks under the hood (not for production), and a Randomized Queue.
 - [Tries](https://github.com/LucasGdosR/DSA-Exercises/tree/main/boggle) - an application to find all possible words in a Boggle board. It uses a Trie implemented from scratch holding words from a dictionary, and Depth First Search to find all valid words, with a Set holding the words found, to prevent duplicates.
 - [Union Find](https://github.com/LucasGdosR/DSA-Exercises/tree/main/union_find) - some interesting interview questions answered, and a Monte Carlo simulation of a percolation problem.
-
-## Systems
-- [Assembler](https://github.com/LucasGdosR/nand2tetris/tree/main/assembler) - an assembler written in Java to convert symbolic assembly to machine code. Capstone of the first part of the [Nand2Tetris](https://www.nand2tetris.org/) course.
 
 ## Misc
 - [CS50 Final Project](https://github.com/LucasGdosR/CS50-Final-Project) (Python/Flask) - my first web application. It's filled with bad practices, but also has some linear programming using python's scipy, as well as frontend/backend integration using flask.
