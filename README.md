@@ -2,7 +2,8 @@
 This repository points to my main repositories sorted by category.
 
 ## Compilers (OCaml)
-- [Snake languages](https://github.com/LucasGdosR/snake-languages/tree/main) - an incremental compiler approach, building several compilers for increasingly rich LISP languages. Encompasses all projects from Joe Politz's [UCSD 131 compilers course](https://github.com/ucsd-cse131-f19/ucsd-cse131-f19.github.io/tree/master) (in progress)
+- [Snake languages](https://github.com/LucasGdosR/snake-languages/tree/main) - an incremental compiler approach, building several compilers for increasingly rich LISP languages. Encompasses all projects from Joe Politz's [UCSD 131 compilers course](https://github.com/ucsd-cse131-f19/ucsd-cse131-f19.github.io/tree/master)
+- [Polish to tree](https://github.com/LucasGdosR/polish_to_tree/tree/main) (Python) - a script that takes in an expression in polish notation, builds an expression tree, and walks it in different orders to produce polish, infix, and reverse polish expressions.
 
 ## Systems (Mostly C)
 - [Parallel zip](https://github.com/LucasGdosR/ostep-projects/tree/main/concurrency-pzip) - a multithreaded command-line program written in C that compresses files using run length encoding. One of the projects from [OS:TEP](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Projects/p3.html) course.
