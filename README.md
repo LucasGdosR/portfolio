@@ -1,6 +1,9 @@
 # Portfolio
 This repository points to my main repositories sorted by category.
 
+## Advent of Code
+- [2024](https://github.com/LucasGdosR/advent_of_code_24) (C and Python) - solutions to the problems of the 2024 edition with every algorithm and data structure coded from scratch.
+
 ## Compilers (OCaml)
 - [Snake languages](https://github.com/LucasGdosR/snake-languages/tree/main) - an incremental compiler approach, building several compilers for increasingly rich LISP languages. Encompasses all projects from Joe Politz's [UCSD 131 compilers course](https://github.com/ucsd-cse131-f19/ucsd-cse131-f19.github.io/tree/master)
 - [Polish to tree](https://github.com/LucasGdosR/polish_to_tree/tree/main) (Python) - a script that takes in an expression in polish notation, builds an expression tree, and walks it in different orders to produce polish, infix, and reverse polish expressions.
